@@ -1,0 +1,5 @@
+Elmcrest Colors: 
+
+Background: Blue: #015bad
+Light Green: #b9dca4
+Blue-Green: #51c3c5
